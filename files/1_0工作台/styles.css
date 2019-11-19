@@ -3204,13 +3204,6 @@
   width:122px;
   word-wrap:break-word;
 }
-#u225_ann {
-  position:absolute;
-  left:1082px;
-  top:295px;
-  width:1px;
-  height:1px;
-}
 #u227_div {
   position:absolute;
   left:0px;
@@ -4375,8 +4368,6 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u226.a {
 }
-#u225_ann.a {
-}
 #u227.a {
 }
 #u227_div.a {
@@ -5236,8 +5227,6 @@ body.b {  background-color:rgba(255, 255, 255, 1);
   box-shadow:none;
 }
 #u226.b {
-}
-#u225_ann.b {
 }
 #u227.b {
 }
